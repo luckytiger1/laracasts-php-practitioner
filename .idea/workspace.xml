@@ -8,7 +8,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution />
+    <execution>
+      <executable path="composer" />
+    </execution>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1h0f0Rq3BGqFlBEIbhLZadgIIJM" />
@@ -51,7 +53,7 @@
       <workItem from="1599152707841" duration="1975000" />
       <workItem from="1599289487990" duration="3664000" />
       <workItem from="1599301863186" duration="9259000" />
-      <workItem from="1599373108853" duration="10658000" />
+      <workItem from="1599373108853" duration="11735000" />
     </task>
     <servers />
   </component>
@@ -75,6 +77,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="697" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599315937258" />
+    <state x="619" y="459" width="682" height="295" key="ComposerInitDialogKey" timestamp="1599398387727">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="619" y="459" width="682" height="295" key="ComposerInitDialogKey/0.27.1920.1053@0.27.1920.1053" timestamp="1599398387727" />
     <state width="1870" height="277" key="GridCell.Tab.0.bottom" timestamp="1599312780847">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -95,10 +101,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="378" height="563" key="HiddenNamespacesPopup/0.27.1920.1053@0.27.1920.1053" timestamp="1599312981982" />
-    <state x="704" y="469" width="512" height="166" key="NewPhpFileDialog" timestamp="1599388386960">
+    <state x="704" y="469" width="512" height="166" key="NewPhpFileDialog" timestamp="1599398693707">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="704" y="469" width="512" height="166" key="NewPhpFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599388386960" />
+    <state x="704" y="469" width="512" height="166" key="NewPhpFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599398693707" />
     <state x="475" y="184" key="SettingsEditor" timestamp="1599290684057">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
