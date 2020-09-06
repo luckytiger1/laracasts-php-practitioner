@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="89c96b87-886e-4ecd-be0e-cc9af88448eb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +31,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/controllers" />
       <recent name="$PROJECT_DIR$/core" />
       <recent name="$PROJECT_DIR$/views" />
     </key>
@@ -53,7 +58,7 @@
       <workItem from="1599152707841" duration="1975000" />
       <workItem from="1599289487990" duration="3664000" />
       <workItem from="1599301863186" duration="9259000" />
-      <workItem from="1599373108853" duration="11735000" />
+      <workItem from="1599373108853" duration="17884000" />
     </task>
     <servers />
   </component>
@@ -73,10 +78,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="423" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599312974891" />
-    <state x="697" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599315937258">
+    <state x="697" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599407180965">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="697" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599315937258" />
+    <state x="697" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599407180965" />
     <state x="619" y="459" width="682" height="295" key="ComposerInitDialogKey" timestamp="1599398387727">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -101,17 +106,17 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="378" height="563" key="HiddenNamespacesPopup/0.27.1920.1053@0.27.1920.1053" timestamp="1599312981982" />
-    <state x="704" y="469" width="512" height="166" key="NewPhpFileDialog" timestamp="1599398693707">
+    <state x="704" y="469" width="512" height="166" key="NewPhpFileDialog" timestamp="1599410558367">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="704" y="469" width="512" height="166" key="NewPhpFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599398693707" />
+    <state x="704" y="469" width="512" height="166" key="NewPhpFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599410558366" />
     <state x="475" y="184" key="SettingsEditor" timestamp="1599290684057">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="475" y="184" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1599290684057" />
-    <state x="572" y="256" width="774" height="678" key="search.everywhere.popup" timestamp="1599390785568">
+    <state x="572" y="256" width="774" height="678" key="search.everywhere.popup" timestamp="1599407997406">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="572" y="256" width="774" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1599390785568" />
+    <state x="572" y="256" width="774" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1599407997406" />
   </component>
 </project>

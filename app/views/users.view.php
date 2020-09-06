@@ -1,19 +1,19 @@
 <?php require('partials/header.php'); ?>
 
-<h1>Submit your name</h1>
+<h1>Submit a user name</h1>
 
-<form method="POST" action="/names">
+<form method="POST" action="/users">
     <label>
         <input name="name">
     </label>
     <button type="submit">Submit</button>
 </form>
 
-<h1>Names:</h1>
+<h1>All Users:</h1>
 
 <ul>
-    <?php foreach ($tasks as $task): ?>
-        <li><?= $task->name; ?></li>
+    <?php foreach ($users as $user): ?>
+        <li><?= $user->name; ?></li>
     <?php endforeach; ?>
 </ul>
 
